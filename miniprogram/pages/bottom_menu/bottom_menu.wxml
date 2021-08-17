@@ -1,0 +1,12 @@
+<view class="bottomMenu">
+  <view class="leftTab" bindtap="square_tab">
+    <text class="leftText" style='color:{{firstColor}}'>广场</text>
+  </view>
+  <view class="centerTab" bindtap="addContent_tab">
+     <image src="cloud://cloud1-4gx7avuofe52b961.636c-cloud1-4gx7avuofe52b961-1305566222/tree hole/plus.png"></image>
+  </view>
+  <view class="rightTab" bindtap="userInfo_tab">
+     <text class="rightText" style='color:{{secendColor}}'>我的</text>
+  </view>
+</view>
+
